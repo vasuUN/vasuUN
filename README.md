@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vasuUN
-- 👀 I’m interested in ... Frontend , web Apps
-- 🌱 I’m currently learning ... **Frontend design & development **
-- 📫 How to reach me unvasudev7@gmail.com
+- 👀 I’m interested in      ----> Frontend , web Apps
+- 🌱 I’m currently learning ----> UI/UX Design & Development
+- 📫 How to reach me        ----> unvasudev7@gmail.com
 
 
 # 💻 Tech Stack:
